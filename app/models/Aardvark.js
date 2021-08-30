@@ -1,5 +1,5 @@
 export class Aardvark {
-  constructor(name){
+  constructor(name, legs, gender, tail){
     this.name = name
     this.legs = 4
     this.gender = "male"
